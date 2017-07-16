@@ -1,2 +1,2 @@
-# frontend-gulp
-My build Gulp for Front-end
+# Gulp build
+My build Gulp for Front-end (using ES6 with gulp)
